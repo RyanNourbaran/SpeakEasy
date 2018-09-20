@@ -28,15 +28,17 @@ Used several Microsoft Azure APIs for facial and emotion detection, as well as s
 User tested our real-time application with over 50 other Hack the North hackers and organizers, with excitement and enthusiasm for the concept!
 Developed a machine learning recommendation engine (using to provide exemplars of good, related presentations for users, based on their historical and most recent performance.
 Consumed over 22 cans of Red Bull (collectively, of course).
-What we learned
+
+# What we learned
 Loads of things. Below are our most striking accomplishments in the past 36 hours:
 
 Addressing lack of training data by exploring open data sets (both text and video).
 How to fuse a statistical and machine learning model to tailor results to a specific use case.
-What's next for SpeakEasy
+
+# What's next for SpeakEasy
 Developing the tool further. Our team sees potential for adoption in real world scenarios, especially as we see the rise of technology taking a greater role in everyday life. In the 36 hours we've had at Hack the North 2018, our proof of concept application has only skimmed the surface in the limitless possibilities available with the use of our tool.
 
-# In particular, some items on our development horizon are, among others:
+In particular, some items on our development horizon are, among others:
 
 Leveraging actively learning machine learning models to identify adequate levels non-engagement, and targeted recommendations as to how to improve audience engagement.
 Developing a bespoke facial detection and activity tracking model. We believe that being able to target specific causes for disinterest or non-engagement (such as conversations with seat neighbours) is of great interest to presenters.
